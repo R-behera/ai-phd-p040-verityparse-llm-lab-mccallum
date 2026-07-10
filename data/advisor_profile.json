@@ -1,0 +1,13 @@
+{
+  "professor": "Andrew McCallum",
+  "university": "University of Massachusetts Amherst",
+  "program": "Manning College of Information & Computer Sciences",
+  "research_area": "ML, NLP, information extraction (CRFs), structured prediction",
+  "representative_paper": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data; 2001; ICML",
+  "paper_link": "https://scholar.google.com/scholar?q=Conditional+Random+Fields%3A+Probabilistic+Models+for+Segmenting+and+Labeling+Sequence+Data",
+  "project_family": "language",
+  "focus": "NLP",
+  "value_add_artifact": "citation-faithful RAG and claim-level evaluation harness",
+  "next_step": "Replace seed claims with recent lab papers; add 50-100 expert-reviewable questions.",
+  "generated_for": "professor outreach value-add starter"
+}
